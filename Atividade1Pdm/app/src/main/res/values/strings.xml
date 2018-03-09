@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atividade1Pdm</string>
+    <string name="ouvidoria">Ouvidoria</string>
+    <string name="mensagem">Deixe sua reclamação, elogio ou pergunta e depois toque em enviar</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="enviar">ENVIAR</string>
+</resources>
